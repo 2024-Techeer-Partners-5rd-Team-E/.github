@@ -1,6 +1,6 @@
 <h1 align="center"><  2024 Techeer Partners 5th Team E  ></h1>
 
-<p algin="center">E2E(End to End)개발을 공부하고 있는 Techeer Partners 5기의 E팀입니다</p>
+<p align="center">E2E(End to End)개발을 공부하고 있는 Techeer Partners 5기의 E팀입니다</p>
 
 <br/>
 
