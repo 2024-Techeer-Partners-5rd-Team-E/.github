@@ -24,7 +24,7 @@ E팀 활동의 진행방식은 다음과 같습니다
 
 ## ⏱️ 활동 기간
 
-2024. 09. 14 ~ 2024. 12. 28
+2024.09.14 ~ 2024.12.28
 
 ## 🔥 팀원
 
@@ -36,4 +36,5 @@ E팀 활동의 진행방식은 다음과 같습니다
 #### ⭐️ 김도훈 <br/>
 
 ##<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width="24" height"24" /> Notion
+
 [Team E Notion Page] (https://www.notion.so/2024-Techeer-Partners-5th-Team-E-102f795757c680e7b454f2295be6c5bf?pvs=4)
