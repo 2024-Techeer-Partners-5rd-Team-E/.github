@@ -26,6 +26,8 @@ E팀 활동의 진행방식은 다음과 같습니다
 
 2024.09.14 ~ 2024.12.28
 
+<br/>
+
 ## 🔥 팀원
 
 #### ⭐️ 강재훈 `Team Leader` <br/>
@@ -34,6 +36,8 @@ E팀 활동의 진행방식은 다음과 같습니다
 #### ⭐️ 장다예 <br/>
 #### ⭐️ 강규민 <br/>
 #### ⭐️ 김도훈 <br/>
+
+<br/>
 
 ## <img src ="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width="24" height="24" /> Notion
 
